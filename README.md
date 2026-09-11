@@ -51,7 +51,7 @@ hardware, documentation, system integration, and operational support.
 
 **CompTIA A+**
 
-Core 1 and Core 2 completed in 2026.
+CompTIA A+ certified in 2026.
 
 ## Professional Background
 
