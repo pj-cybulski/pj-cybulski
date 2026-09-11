@@ -23,7 +23,7 @@ The portfolio includes documented troubleshooting cases involving DNS,
 SMB connectivity, Windows Firewall, network adapters, shared printing,
 Windows services, Active Directory, and managed network resources.
 
-➡️ [View the Windows IT Support Lab](https://github.com/pj_cybulski/windows-it-support-lab)
+➡️ [View the Windows IT Support Lab](https://github.com/pj-cybulski/windows-it-support-lab)
 
 ### Professional Technical Projects
 
