@@ -36,7 +36,7 @@ These projects document the technical side of my professional media
 career and demonstrate experience with troubleshooting, connectivity,
 hardware, documentation, system integration, and operational support.
 
-**Project portfolio coming next.**
+➡️ [View Professional Technical Projects](https://github.com/pj-cybulski/professional-technical-projects)
 
 ## Current Focus
 
