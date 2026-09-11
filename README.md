@@ -49,8 +49,6 @@ hardware, documentation, system integration, and operational support.
 
 ## Certifications
 
-**CompTIA A+**
-
 CompTIA A+ certified in 2026.
 
 ## Professional Background
