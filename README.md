@@ -1,5 +1,5 @@
 # PJ Cybulski
-LinkedIn: linkedin.com/in/phillip-cybulski
+**LinkedIn:** [linkedin.com/in/phillip-cybulski](https://www.linkedin.com/in/phillip-cybulski/)
 
 **CompTIA A+ Certified | IT Support | Technical Systems**
 
